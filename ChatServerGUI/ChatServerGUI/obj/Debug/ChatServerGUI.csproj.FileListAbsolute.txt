@@ -1,0 +1,10 @@
+C:\repos\ChatServerGUI\ChatServerGUI\obj\Debug\ChatServerGUI.csproj.AssemblyReference.cache
+C:\repos\ChatServerGUI\ChatServerGUI\obj\Debug\ChatServerGUI.Form1.resources
+C:\repos\ChatServerGUI\ChatServerGUI\obj\Debug\ChatServerGUI.Properties.Resources.resources
+C:\repos\ChatServerGUI\ChatServerGUI\obj\Debug\ChatServerGUI.csproj.GenerateResource.cache
+C:\repos\ChatServerGUI\ChatServerGUI\obj\Debug\ChatServerGUI.csproj.CoreCompileInputs.cache
+C:\repos\ChatServerGUI\ChatServerGUI\bin\Debug\ChatServerGUI.exe.config
+C:\repos\ChatServerGUI\ChatServerGUI\bin\Debug\ChatServerGUI.exe
+C:\repos\ChatServerGUI\ChatServerGUI\bin\Debug\ChatServerGUI.pdb
+C:\repos\ChatServerGUI\ChatServerGUI\obj\Debug\ChatServerGUI.exe
+C:\repos\ChatServerGUI\ChatServerGUI\obj\Debug\ChatServerGUI.pdb
